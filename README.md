@@ -8,7 +8,7 @@ Encapsulation through class design
 Modular code organization using separate header and source files
 Purpose
 
-The goal of this project is to demonstrate strong understanding of C++ OOP design patterns while building a practical, interactive command-line application for managing geometric objects.
+The goal of this project is to demonstrate strong understanding of C++ OOP design patterns while building a practical, interactive command-line application for managing geometric objects. This was one of my final projects for UF's Programming for Electrical and Computer Engineering course.
 
 ## Key Features
 - Add multiple shape types
